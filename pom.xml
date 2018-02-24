@@ -26,6 +26,9 @@
 
     <modules>
         <module>start</module>
+        <module>core</module>
+        <module>config</module>
+        <module>service</module>
     </modules>
 
     <dependencyManagement>
