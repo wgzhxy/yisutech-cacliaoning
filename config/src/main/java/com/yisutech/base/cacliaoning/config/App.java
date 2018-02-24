@@ -1,4 +1,4 @@
-package com.yisutech.base.cacliaoning.manager;
+package com.yisutech.base.cacliaoning.config;
 
 /**
  * Hello world!
