@@ -1,4 +1,4 @@
-package com.yisutech.base.cacliaoning.controller;
+package com.yisutech.base.cacliaoning.start.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.stereotype.Controller;

@@ -1,4 +1,4 @@
-package com.yisutech.base.cacliaoning;
+package com.yisutech.base.cacliaoning.start;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

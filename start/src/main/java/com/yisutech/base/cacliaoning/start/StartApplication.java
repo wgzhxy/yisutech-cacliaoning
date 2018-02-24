@@ -1,4 +1,4 @@
-package com.yisutech.base.cacliaoning;
+package com.yisutech.base.cacliaoning.start;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
